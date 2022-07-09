@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://rekapan-hongkong.github.io/sgp-3/sitemap.xml
